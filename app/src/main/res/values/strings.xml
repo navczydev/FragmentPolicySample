@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentPolicySample</string>
+    <string name="i_am_in_child_fragment">I am in child fragment</string>
+</resources>
